@@ -1,1 +1,2 @@
-# This is test C++ project. 0x89231
+# This is test C++ project.
+0x896125
